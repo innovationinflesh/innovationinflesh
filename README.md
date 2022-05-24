@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @innovationinflesh
 - 👀 I’m interested in wordpress, php, javascript, laravel.
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Wordpress Development Projects
 - 📫 How to reach me: innovationinflesh@gmail.com
 - Open to oppurtunities.
